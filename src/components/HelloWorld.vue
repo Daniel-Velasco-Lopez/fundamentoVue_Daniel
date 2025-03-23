@@ -36,6 +36,8 @@ import Card from './Card.vue';
         <!--Llamamos al componente importado-->
         <card/>
         <!--Fin del llamado al componente importado-->
+
+        <card/>
     </div>
 </template>
 
