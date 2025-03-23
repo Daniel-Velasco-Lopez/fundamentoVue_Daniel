@@ -1,4 +1,5 @@
 <script setup>
+import Card from './Card.vue';
 //metodos
 </script>
 
@@ -32,9 +33,9 @@
         </di>
         <!--FIN DEL PRIMER ROW-->
 
-        <!--INICIO DEL SEGUNDO ROW-->
-        
-        <!--FIN DEL SEGUNDO ROW-->
+        <!--Llamamos al componente importado-->
+        <card/>
+        <!--Fin del llamado al componente importado-->
     </div>
 </template>
 
